@@ -12,7 +12,7 @@ Um jogo de adivinhação de senha numérica inspirado em Termo, desenvolvido em 
   - Vermelho: Número incorreto.
 - Continue tentando até acertar todos os 5 dígitos.
 
-- ## Como rodar o jogo
+## Como rodar o jogo
 
 - 1. Seu antivírus ou a própria proteção do SmartScreen do Windows vai apitar,
      dizendo que tem vírus. O jogo NÃO POSSUE VÍRUS, ele avisa por quê o jogo
